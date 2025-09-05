@@ -11,7 +11,7 @@
 ---
 
 ## 👨‍💻 About Me  
-- 🎓 **IT Student** at Government Polytechnic Awasari Khurd  
+- 🎓 **IT / AIML Student** at Government Polytechnic Awasari Khurd  
 - 💻 Passionate about **Full-Stack Web Development** and **UI/UX Design**  
 - 🌐 Currently working on **[Annadan Website](#)** *(A donation platform for managing food donations)*  
 - Exploring **React, Node.js, MySQL, and Modern Web Technologies**  
